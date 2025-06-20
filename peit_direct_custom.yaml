@@ -1,3 +1,4 @@
 payload:
-  - DOMAIN,sdsdsjkdjskjdsk.com
+  - DOMAIN-SUFFIX,iepose.com
+  - DOMAIN-SUFFIX,ionewu.com
   - IP-CIDR,27.124.44.132/32
